@@ -1,0 +1,7 @@
+INSTRUCCIÓN DE EJECUCIÓN
+
+Para ejecutar el servicio web, abrir una terminal en la carpeta raíz del proyecto y ejecutar el siguiente comando:
+
+"mvn spring-boot:run"
+
+El proyecto utiliza Maven para gestionar las dependencias y ejecutar la aplicación Spring Boot.
